@@ -6,7 +6,7 @@ This is a simple NPX package that displays information about Sagar Maiti when ru
 ## Installation
 
 You don't need to install this package locally. You can run it directly using NPX:
-
+```
 ```bash
 npx sagarmaiti26
 ```
