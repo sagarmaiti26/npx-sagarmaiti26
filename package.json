@@ -1,0 +1,19 @@
+{
+  "name": "sagarmaiti26",
+  "version": "1.0.4",
+  "description": "npx package to print information about me",
+  "main": "index.mjs",
+  "type": "module",
+  "bin": {
+    "about-me": "./index.mjs"
+  },
+  "keywords": [
+    "npx",
+    "about-me"
+  ],
+  "author": "Sagar Maiti",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
